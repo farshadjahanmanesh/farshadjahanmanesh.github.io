@@ -1,7 +1,6 @@
-*:not(.code){
-    direction: rtl;
-}
+
 body {
+	direction: rtl;
 	margin: 0;
 	color: $font-color;
 	font-family: $font-style;
