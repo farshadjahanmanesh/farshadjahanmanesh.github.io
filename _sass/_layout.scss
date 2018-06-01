@@ -20,6 +20,9 @@
     padding: 10px;
 	font-family: $font-style-code;
 }
+code > * {
+    padding: 3px !important;
+}
 body {
 	margin: 0;
 	color: $font-color;
