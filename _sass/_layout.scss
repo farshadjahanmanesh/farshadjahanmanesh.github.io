@@ -62,14 +62,13 @@ a:hover {
 	text-decoration: underline;
 }
 header {
-	background: $header;
-	padding: 0px 15px;
-	text-align: center;
-	margin: 50px 0 0;
-	height: 50vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	background:$header;
+    text-align: center;
+    height: 25vh;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 main {
 	padding: 0 15px;
